@@ -75,8 +75,7 @@ On kali give the command exploit
 ![alt text](exploit.png)
 
 keyscan_dump	Shows the keystrokes captured so far
-
-![alt text](image.png)
+![VirtualBox_Parrot Security 6 0_25_05_2025_12_55_07](https://github.com/user-attachments/assets/7e28f1c3-38ba-4a0f-901a-166a3ed2e6c9)
 
 
 
